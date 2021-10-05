@@ -22,7 +22,7 @@ options(htmltools.dir.version = FALSE)
 
 - Have R and RStudio installed on your computer
 
-- Try to install a package in RStudio `tidyverse`
+- Try to install the package `tidyverse` in RStudio
 
 ---
 

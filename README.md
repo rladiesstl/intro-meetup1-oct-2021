@@ -5,6 +5,9 @@
 About R-Ladies St. Louis Intro slides:https://rladiesstl.github.io/intro-meetup1-oct-2021/
 
 Materials for the workshop in this repo include:
+  - Slides
+  - Data
+  - R exercise and solution files
 
 ### Preparing for the Workshop
 
