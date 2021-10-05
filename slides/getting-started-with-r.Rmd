@@ -225,7 +225,7 @@ Enter the following into the RStudio console pane:
 ```{r eval = F}
 install.packages("usethis")
 library(usethis)
-use_course("https://bit.ly/getting-started-with-r")
+use_course("https://github.com/rladiesstl/intro-meetup1-oct-2021/archive/refs/heads/main.zip")
 ```
 
 ???

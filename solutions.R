@@ -18,12 +18,12 @@ library(skimr)
 
 # Import the faketucky data into a data frame called faketucky.
 
-faketucky <- read_csv("data/faketucky.csv", 
+faketucky <- read_csv("data/faketucky.csv",
                       na = "999",
-                      col_types = list(enrolled_in_college = col_character(),
-                                       free_and_reduced_lunch = col_character(),
-                                       male = col_character(),
-                                       received_high_school_diploma = col_character()))
+                      col_types = list(enrolled_in_college = "c",
+                                       free_and_reduced_lunch = "c",
+                                       male = "c",
+                                       received_high_school_diploma = "c"))
 
 
 # Examine Data ------------------------------------------------------------
